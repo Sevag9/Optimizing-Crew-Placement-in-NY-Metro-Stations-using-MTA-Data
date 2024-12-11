@@ -50,7 +50,7 @@ This project leverages NYC subway data (2020-2024) to optimize the deployment of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nilsalci/Optimizing-Crew-Placement-in-NY-Metro-Stations-using-MTA-Data
+   git clone https://github.com/Sevag9/Optimizing-Crew-Placement-in-NY-Metro-Stations-using-MTA-Data
    ```
 2. Run the Jupyter Notebook:
    ```bash
